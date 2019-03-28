@@ -1,7 +1,7 @@
 # QA
 Intent classification model of CNN-LSTM based on distributed coding
 
-Running the main function  requires modifying the road vector
+Running the main function  requires modifying the path of the wor2vec
 
 # Reference:
 1. Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling
